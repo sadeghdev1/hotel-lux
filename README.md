@@ -23,4 +23,4 @@ Built with HTML, CSS, and JavaScript, it focuses on elegant design and smooth re
 ## 📌 About
 This project highlights my skills in **front-end web design**, especially for RTL and responsive layouts.  
 
-🔗 [Live Demo](https://sadeghm8.github.io/hotel-lux/)
+🔗 [Live Demo](https://sadeghdev1.github.io/hotel-lux/)
